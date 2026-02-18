@@ -31,7 +31,7 @@ The Smart Productivity Hub is designed as a beginner‑friendly yet professional
 > Replace these image paths with your actual screenshot files inside the `assets/` folder.
 
 ### Dashboard View  
-![Dashboard Screenshot](./assets/dashboard.png)
+![Dashboard Screenshot](https://github.com/AbdulMalik198/SmartProductivityHub/blob/ac63e83c8fe4f45bb00d14c9c01bad83ea120dd8/screenShot_Folder/SPH4.png)
 
 ### Task Manager  
 ![Tasks Screenshot](https://github.com/AbdulMalik198/SmartProductivityHub/blob/070b0068db93630d5e433861df8a7330122cca35/screenShot_Folder/SPH1.png)
