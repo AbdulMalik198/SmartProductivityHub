@@ -69,7 +69,7 @@ https://smartproductivityhubabdulmalik.netlify.app
 - **CSS3**  
 - **JavaScript (ES6)**  
 - **LocalStorage**  
-- **No backend needed**  
+
 
 ---
 
