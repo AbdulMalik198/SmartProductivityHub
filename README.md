@@ -59,8 +59,6 @@ The Smart Productivity Hub is designed as a beginner‑friendly yet professional
 ##  Live Demo
 https://smartproductivityhubabdulmalik.netlify.app
 
-
-
 ---
 
 ##  Tech Stack
