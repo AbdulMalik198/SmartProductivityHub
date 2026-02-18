@@ -40,7 +40,7 @@ The Smart Productivity Hub is designed as a beginner‑friendly yet professional
 ![Notes Screenshot](https://github.com/AbdulMalik198/SmartProductivityHub/blob/b64c560c96aad298a86a2d8261882e1961553d2a/screenShot_Folder/SPH2.png)
 
 ### Daily Planner  
-![Planner Screenshot](./assets/planner.png)
+![Planner Screenshot](https://github.com/AbdulMalik198/SmartProductivityHub/blob/298164d42b5a07aaac110c0fbd9037620f6d5683/screenShot_Folder/SPH3.png)
 
 ---
 
