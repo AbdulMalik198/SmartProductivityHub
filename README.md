@@ -8,7 +8,7 @@
 ![Deploy](https://img.shields.io/badge/Deploy-Netlify-green)
 
 A productivity tool built with **HTML**, **CSS**, **JavaScript**, and **LocalStorage**. It combines tasks, notes, a daily planner, and a simple dashboard into one clean, responsive interface 
-## 🧠 About the Smart Productivity Hub
+##  About the Smart Productivity Hub
 
 The **Smart Productivity Hub** is a lightweight, browser‑based personal organisation tool designed to help users stay focused, structured, and productive throughout the day. Built entirely with **HTML**, **CSS**, **JavaScript**, and **LocalStorage**, it delivers a smooth, app‑like experience without relying on frameworks or backend services.
 
