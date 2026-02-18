@@ -34,7 +34,7 @@ The Smart Productivity Hub is designed as a beginner‑friendly yet professional
 ![Dashboard Screenshot](./assets/dashboard.png)
 
 ### Task Manager  
-![Tasks Screenshot](./assets/tasks.png)
+![Tasks Screenshot](https://github.com/AbdulMalik198/SmartProductivityHub/blob/070b0068db93630d5e433861df8a7330122cca35/screenShot_Folder/SPH1.png)
 
 ### Notes Workspace  
 ![Notes Screenshot](./assets/notes.png)
