@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Smart Productivity Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <h2>Smart Productivity Hub</h2>
+      <button class="nav-btn" data-view="tasks">Tasks</button>
+      <button class="nav-btn" data-view="notes">Notes</button>
+      <button class="nav-btn" data-view="planner">Planner</button>
+      <button class="nav-btn" data-view="dashboard">Dashboard</button>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main">
+
+      <!-- TASKS -->
+      <section id="tasks" class="view active">
+        <h3>Task Manager</h3>
+
+        <form id="task-form">
+          <input type="text" id="task-input" placeholder="Add a task...">
+          <button type="submit">Add</button>
+        </form>
+
+        <ul id="task-list"></ul>
+      </section>
+
+      <!-- NOTES -->
+      <section id="notes" class="view">
+        <h3>Notes Workspace</h3>
+
+        <form id="note-form">
+          <input type="text" id="note-title" placeholder="Note title">
+          <textarea id="note-body" placeholder="Write your note..."></textarea>
+          <button type="submit">Save Note</button>
+        </form>
+
+        <div id="notes-container"></div>
+      </section>
+
+      <!-- PLANNER -->
+      <section id="planner" class="view">
+        <h3>Daily Planner</h3>
+
+        <form id="planner-form">
+          <input type="time" id="planner-time">
+          <input type="text" id="planner-task" placeholder="What will you do?">
+          <button type="submit">Add</button>
+        </form>
+
+        <ul id="planner-list"></ul>
+      </section>
+
+      <!-- DASHBOARD -->
+      <section id="dashboard" class="view">
+        <h3>Productivity Dashboard</h3>
+        <p id="stats"></p>
+      </section>
+
+    </main>
+
+    <!-- Widgets -->
+    <aside class="widgets">
+      <h3>Smart Widgets</h3>
+      <p id="today"></p>
+      <p class="quote">“Small consistent steps beat occasional big efforts.”</p>
+    </aside>
+
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
